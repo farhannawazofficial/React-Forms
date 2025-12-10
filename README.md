@@ -1,4 +1,4 @@
-# React Forms — Signup & Login Assignment
+# React Forms Assignment
 
 This repository contains a small React app demonstrating Signup and Login forms with validation, localStorage usage, client-side password hashing (SHA-256), and a simple dashboard.
 
